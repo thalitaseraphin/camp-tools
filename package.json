@@ -1,9 +1,0 @@
-{
-  "name": "laboratorio-paginas",
-  "version": "1.0.0",
-  "description": "Laboratorio de Paginas - validador de paginas de vendas com IA. Baseado na metodologia de Lancamentos Pagos do Willian Baldan (Rise).",
-  "private": true,
-  "engines": {
-    "node": ">=18"
-  }
-}
